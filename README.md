@@ -1,4 +1,5 @@
 SkillBridge
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 SkillBridge is a learning and skill-enhancement platform powered by AI.
 It bridges learners with personalized insights, helping them understand their strengths and growth areas using intelligent analytics.
@@ -20,6 +21,8 @@ Clean, intuitive & minimal UI/UX
 Built with React + TypeScript + Vite
 
 Fully configurable using local API keys
+
+Structure of SkillBridge
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 skillbridge/
 
