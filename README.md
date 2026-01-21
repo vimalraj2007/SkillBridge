@@ -20,7 +20,7 @@ Clean, intuitive & minimal UI/UX
 Built with React + TypeScript + Vite
 
 Fully configurable using local API keys
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 skillbridge/
 
  ┣ 📂 components        # UI components
