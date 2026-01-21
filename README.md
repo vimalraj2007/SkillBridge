@@ -21,16 +21,24 @@ Built with React + TypeScript + Vite
 
 Fully configurable using local API keys
 
+skillbridge/
 
-📁 skillbridge
- ┣ 📂 components
- ┣ 📂 pages
- ┣ 📂 services
- ┣ 📄 types.ts
- ┣ 📄 App.tsx
- ┣ 📄 index.tsx
- ┣ 📄 package.json
- ┗ 📄 .env.local
+ ┣ 📂 components        # UI components
+ 
+ ┣ 📂 pages             # Application pages
+ 
+ ┣ 📂 services          # AI & storage services
+ 
+ ┣ 📄 types.ts          # TS type declarations
+ 
+ ┣ 📄 App.tsx           # Main app component
+ 
+ ┣ 📄 index.tsx         # App entry point
+ 
+ ┣ 📄 package.json      # Dependencies & scripts
+ 
+ ┗ 📄 .env.local        # Gemini API key (user-generated)
+ 
 
 ## Run Locally
 
