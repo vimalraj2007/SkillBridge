@@ -1,20 +1,25 @@
-About SkillBridge
+SkillBridge
 
-A learning and skill-enhancement platform powered by AI
+SkillBridge is a learning and skill-enhancement platform powered by AI.
+It bridges learners with personalized insights, helping them understand their strengths and growth areas using intelligent analytics.
+
+🔹 About SkillBridge
+
+AI-enhanced learning platform
 
 Connects learners with personalized learning paths
 
-Helps users analyze their knowledge, performance, and progress
+Analyzes knowledge, performance & progress
 
-Provides dashboards for tracking skill development
+Provides dashboards for skill tracking
 
-Uses Gemini AI for analysis and recommendations
+Uses Gemini AI for recommendations & insights
 
-Designed with a clean, intuitive, and minimal UI
+Clean, intuitive & minimal UI/UX
 
-Built using React + TypeScript + Vite
+Built with React + TypeScript + Vite
 
-Fully configurable with API key for local use
+Fully configurable using local API keys
 
 
 📁 skillbridge
