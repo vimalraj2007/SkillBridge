@@ -1,0 +1,9 @@
+
+{
+  "name": "SkillBridge",
+  "description": "An AI-powered career growth platform that offers ATS resume scanning, skill gap analysis, career path predictions, and a centralized career portfolio storage system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
