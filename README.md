@@ -1,13 +1,12 @@
-skillbridge/
-├── components/              # UI components
-├── pages/                   # App screens
-├── services/                # AI + storage utilities
-├── types.ts                 # TS type interfaces
-├── App.tsx                  # Main app entry
-├── index.tsx                # Render root
-├── package.json             # Dependencies
-└── .env.local               # Gemini API key
-
+📁 skillbridge
+ ┣ 📂 components
+ ┣ 📂 pages
+ ┣ 📂 services
+ ┣ 📄 types.ts
+ ┣ 📄 App.tsx
+ ┣ 📄 index.tsx
+ ┣ 📄 package.json
+ ┗ 📄 .env.local
 
 ## Run Locally
 
