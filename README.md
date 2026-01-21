@@ -48,13 +48,14 @@ skillbridge/
 **Prerequisites:**  Node.js
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img width="998" height="765" alt="image" src="https://github.com/user-attachments/assets/6c4a476f-6c83-4e6d-a17a-2730df937f9e" />
-
-
 
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/6c4a476f-6c83-4e6d-a17a-2730df937f9e" />
